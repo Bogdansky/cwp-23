@@ -1,0 +1,17 @@
+{
+    "name": "cwp-23",
+    "version": "1.0.0",
+    "main": "index.js",
+    "repository": "https://github.com/Bogdansky/cwp-23",
+    "author": "Bogdan <bogdya2@gmail.com>",
+    "license": "MIT",
+    "private": true,
+    "workspaces": [
+        "mendeleev",
+        "mendeleev-stringify",
+        "mendeleev-master"
+    ],
+    "dependencies": {
+        "@chemistry/elements": "^2.5.1"
+    }
+}

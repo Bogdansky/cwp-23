@@ -1,0 +1,10 @@
+{
+    "name": "mendeleev-stringify",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT",
+    "dependencies": {
+        "@chemistry/elements": "^2.5.1",
+        "mendeleev": "1.0.0"
+    }
+}
